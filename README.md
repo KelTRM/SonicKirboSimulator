@@ -1,1 +1,2 @@
 # SonicKirboSimulator
+read the name
